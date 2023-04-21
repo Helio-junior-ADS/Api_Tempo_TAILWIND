@@ -1,5 +1,10 @@
 # Api_Tempo_REACT_TAILWIND
 
+![Screenshot_1](https://user-images.githubusercontent.com/64769193/233672230-56dae12e-cdaf-4724-b5cd-bfa4ed0fe608.png)
+![Screenshot_2](https://user-images.githubusercontent.com/64769193/233672268-92b2533c-cad6-4a2a-b7c2-ebc922a47865.png)
+![Screenshot_3](https://user-images.githubusercontent.com/64769193/233672289-aba96623-8020-463c-91ef-399615bdba18.png)
+
+
 # Sobre o projeto:
 + ## Pesquise o clima e a temperatura de qualquer lugar do mundo.
 + ## Projeto desenvolvido para estudo de consumo de API restful, criação de frontend com REACT.js e TAILWIND no CSS. 
